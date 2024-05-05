@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação web para compartilhamento de pensamentos. Permite que os usuários criem uma conta, façam login, compartilhem seus pensamentos, vejam os pensamentos de outros usuários e interajam com eles. O projeto é construído usando Node.js, Express.js e Sequelize como ORM para interagir com o banco de dados MySQL.
+Este projeto é uma aplicação web para compartilhamento de pensamentos. Permite que os usuários criem uma conta, façam login, compartilhem seus pensamentos, vejam os pensamentos de outros usuários e interajam com eles. O projeto é construído usando Node.js, Express.js e Sequelize para interagir com o banco de dados MySQL.
 
 ## Configuração
 
