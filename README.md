@@ -26,13 +26,13 @@ Este projeto é uma aplicação web para compartilhamento de pensamentos. Permit
 3. Instale as dependências do projeto:
  
    ```bash
-   npm install
+   npm install bcryptjs connect-flash cookie-parser cookie-session express express-flash express-handlebars express-session mysql2 nodemon sequelize session-file-store
 
 4. Configure as variáveis de ambiente no arquivo .env conforme o arquivo .env.example.
 5. Inicie o servidor:
 
    ```bash
-   npm install
+   npm start
 
 ## Estrutura do Projeto
 
