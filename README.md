@@ -27,7 +27,7 @@ Este projeto é uma aplicação web para compartilhamento de pensamentos. Permit
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd seu-projeto
+   cd Toughts
 
    ```
 
