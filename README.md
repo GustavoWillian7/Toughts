@@ -16,7 +16,7 @@ Este projeto é uma aplicação web para compartilhamento de pensamentos. Permit
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/GustavoWillian7/Toughts.git
 
 2. Navegue até o diretório do projeto:
 
