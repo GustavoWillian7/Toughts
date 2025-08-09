@@ -4,6 +4,10 @@
 
 Este projeto é uma aplicação web para compartilhamento de pensamentos. Permite que os usuários criem uma conta, façam login, compartilhem seus pensamentos, vejam os pensamentos de outros usuários e interajam com eles. O projeto é construído usando Node.js, Express.js e Sequelize para interagir com o banco de dados MySQL.
 
+## Demonstração
+
+![Toughts em funcionamento](docs/thoughts.jpg)
+
 ## Configuração
 
 ### Pré-requisitos
@@ -18,21 +22,27 @@ Este projeto é uma aplicação web para compartilhamento de pensamentos. Permit
    ```bash
    git clone https://github.com/GustavoWillian7/Toughts.git
 
+   ```
+
 2. Navegue até o diretório do projeto:
 
    ```bash
    cd seu-projeto
 
+   ```
+
 3. Instale as dependências do projeto:
- 
+
    ```bash
    npm install bcryptjs connect-flash cookie-parser cookie-session express express-flash express-handlebars express-session mysql2 nodemon sequelize session-file-store
 
-4. Configure as variáveis de ambiente no arquivo .env conforme o arquivo .env.example.
-5. Inicie o servidor:
+   ```
+
+4. Inicie o servidor:
 
    ```bash
    npm start
+   ```
 
 ## Estrutura do Projeto
 
