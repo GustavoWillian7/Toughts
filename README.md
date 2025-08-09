@@ -6,7 +6,7 @@ Este projeto é uma aplicação web para compartilhamento de pensamentos. Permit
 
 ## Demonstração
 
-![Toughts em funcionamento](docs/thoughts.jpg)
+![Toughts em funcionamento](docs/toughts.jpg)
 
 ## Configuração
 
